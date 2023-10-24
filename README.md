@@ -1,7 +1,7 @@
 # usuarios
 Arquitectura SaaS con gestión de usuarios
 
-![Diagrama de despliegue de la arquitectura SaaS](https://github.com/jgallud/usuarios/issues/1#issue-1958759464)
+![image](https://github.com/jgallud/usuarios/assets/5364288/be50f216-6e21-4c94-b37e-09c36c32030d)
 
 Antes de lanzar la ejecución de deben obtener credenciales:
 - en el archivo "cad.js": obtener la cadena de conexión de Mongo Atlas (crear una BBDD en Mongo Atlas y un usuario de acceso)
