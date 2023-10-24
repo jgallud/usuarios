@@ -5,7 +5,7 @@ const passport=require("passport");
 const cookieSession=require("cookie-session");
 const bodyParser=require("body-parser");
 const args = process.argv.slice(2); 
-const global=require("atob");
+//const global=require("atob");
 require("./servidor/passport-setup.js");
 const modelo = require("./servidor/modelo.js");
 const PORT = process.env.PORT || 3000;
