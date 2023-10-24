@@ -1,5 +1,8 @@
 # usuarios
 Arquitectura SaaS con gestión de usuarios
+![test](https://github.com/github/docs/actions/workflows/test.yml/badge.svg)
+
+Diagram de despliegue de la solución:
 
 ![image](https://github.com/jgallud/usuarios/assets/5364288/be50f216-6e21-4c94-b37e-09c36c32030d)
 
